@@ -1,4 +1,4 @@
-# 🧠 Turning an Ordinary HP Laptop into a Local AI Workstation
+#  Turning an Ordinary HP Laptop into a Local AI Workstation
 
 > *What started as a simple "let's see if this even boots" experiment somehow ended with a 20B model generating hundreds of lines of usable code on a CPU-only ultrabook.* 🔥🗿
 
