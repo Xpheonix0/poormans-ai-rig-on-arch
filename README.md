@@ -486,10 +486,11 @@ That, to me, is the coolest part.
 ## 📸 Screenshots
 
 Screenshots and phone photos of benchmark runs, TTY outputs, and code generation examples will be added here.
-also my pc display panel delivers good contrast so the phones photo on tty looks cool
 ![gpt-oss calling itself cloud,ttymode](assets/screen1.png)
 ![on 2 thread,16k toks](assets/screen2.png)
 ![on 1 thread,0.5k toks](assets/screen2.png)
+
+also my pc display panel delivers good contrast so the phones photo on tty looks cool.
 ---
 
 ## 🗿 Closing Thought
