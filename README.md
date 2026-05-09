@@ -490,7 +490,7 @@ Screenshots and phone photos of benchmark runs, TTY outputs, and code generation
 ![on 2 thread,16k toks](assets/screen2.png)
 ![on 1 thread,0.5k toks](assets/screen2.png)
 
-also my pc display panel delivers good contrast so the phones photo on tty looks cool.
+>For clarity my laptop's display panel delivers good contrast so the phones photo on tty looks cool but the screenshot looks dull.
 ---
 
 ## 🗿 Closing Thought
