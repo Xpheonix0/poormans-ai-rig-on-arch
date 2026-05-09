@@ -487,3 +487,105 @@ Hi! How can I help you today?
 [ Prompt: 13.9 t/s | Generation: 6.2 t/s ]
 
 > 
+
+Exiting...
+common_memory_breakdown_print: | memory breakdown [MiB] | total   free    self   model   context   compute    unaccounted |
+common_memory_breakdown_print: |   - Host               |                 5150 =  4476 +     108 +     566                |
+[erox@erox llama.cpp]$ ./build/bin/llama-cli -m /home/erox/ai/models/gemma-4-E2B-it-UD-Q6_K_XL.gguf -t 1 -c 512 --temp 0.15 --repeat-penalty 1.1
+
+Loading model...  
+
+
+▄▄ ▄▄
+██ ██
+██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄
+██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██
+██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀
+                                    ██    ██
+                                    ▀▀    ▀▀
+
+build      : b8938-b1a5bd4e0
+model      : gemma-4-E2B-it-UD-Q6_K_XL.gguf
+modalities : text
+
+available commands:
+  /exit or Ctrl+C     stop or exit
+  /regen              regenerate the last response
+  /clear              clear the chat history
+  /read <file>        add a text file
+  /glob <pattern>     add text files using globbing pattern
+
+
+> hi
+
+[Start thinking]
+Thinking Process:
+
+1.  **Analyze the input:** The input is "hi".
+2.  **Determine the context/intent:** This is a casual greeting.
+3.  **Formulate an appropriate response:** A friendly, reciprocal greeting is necessary. I should also offer to help or ask how the user is doing to keep the conversation going.
+4.  **Draft potential responses:**
+    *   "Hello!" (Too brief)
+    *   "Hi there! How can I help you today?" (Good, polite, functional)
+    *   "Hey! What's up?" (Casual, friendly)
+5.  **Select the best response:** A standard, welcoming greeting that invites further interaction is usually the most effective for an AI.
+
+6.  **Final Output Generation.**
+[End thinking]
+
+Hi! How can I help you today?
+
+[ Prompt: 7.1 t/s | Generation: 3.5 t/s ]
+
+> 
+
+Exiting...
+common_memory_breakdown_print: | memory breakdown [MiB] | total   free    self   model   context   compute    unaccounted |
+common_memory_breakdown_print: |   - Host               |                 5005 =  4476 +       9 +     520                |
+[erox@erox llama.cpp]$ ./build/bin/llama-cli -m /home/erox/ai/models/gemma-4-E2B-it-UD-Q6_K_XL.gguf -t 4 -c 2096 --temp 0.15 --repeat-penalty 1.1
+
+Loading model...  
+
+
+▄▄ ▄▄
+██ ██
+██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄
+██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██
+██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀
+                                    ██    ██
+                                    ▀▀    ▀▀
+
+build      : b8938-b1a5bd4e0
+model      : gemma-4-E2B-it-UD-Q6_K_XL.gguf
+modalities : text
+
+available commands:
+  /exit or Ctrl+C     stop or exit
+  /regen              regenerate the last response
+  /clear              clear the chat history
+  /read <file>        add a text file
+  /glob <pattern>     add text files using globbing pattern
+
+
+> hi
+
+[Start thinking]
+Thinking Process:
+
+1.  **Analyze the input:** The input is "hi".
+2.  **Determine the context/intent:** This is a simple, informal greeting.
+3.  **Formulate an appropriate response:** A friendly, reciprocal greeting is necessary. I should acknowledge the greeting and invite further interaction.
+4.  **Draft potential responses:**
+    *   "Hello!" (Standard)
+    *   "Hi there!" (Friendly)
+    *   "Hello! How can I help you today?" (Helpful/Action-oriented)
+5.  **Select the best response:** A simple, warm greeting is usually best when the user hasn't asked a specific question yet.
+
+6.  **Final Output Generation.**
+[End thinking]
+
+Hi! How can I help you today?
+
+[ Prompt: 24.9 t/s | Generation: 9.5 t/s ]
+
+> 
