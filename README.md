@@ -510,3 +510,4 @@ Meanwhile reality was:
 * One very determined i5-1135G7
 
 And somehow… it worked. 😭🔥🗿
+at last as conclusion "The model successfully ran on my i5-1135G7 while confidently explaining that such a model requires an i9 or Ryzen 9 and is hosted in OpenAI’s cloud."🤣🤣🤣
